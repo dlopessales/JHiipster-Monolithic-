@@ -9,7 +9,6 @@
                 "main": "Entidades",
                 "mestre": "Mestre",
                 "detalhe": "Detalhe",
-                "mestre-detalhe": "Mestre Detalhe",
                 "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
             },
             "account": {
